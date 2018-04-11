@@ -189,3 +189,17 @@
 > 详细叙述了神经网络的黑盒（black box）问题，并描述了如何通过输出output还原输入input，可以间接地理解神经网络最终学习到了什么。
 
 **3. 旋转创造新的数据集**
+
+
+
+如果读者比较感兴趣，可阅读英文原版《Make Your Own Neural Network》
+
+关于MNIST数据集的几个有用的网站：
+1. https://github.com/makeyourownneuralnetwork
+2. http://yann.lecun.com/exdb/lenet/
+3. http://yann.lecun.com/exdb/mnist/
+4. https://pjreddie.com/projects/mnist-in-csv/
+
+MNIST数据集网址：
+1. http://www.pjreddie.com/media/files/mnist_train.csv
+2. http://www.pjreddie.com/media/files/mnist_test.csv
