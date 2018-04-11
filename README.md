@@ -1,6 +1,3 @@
-# makeyourownneuralnetwork
-how to make a simple neural network 
-
 # 搭建自己的神经网络 #
 ----------
 ## 序言 ##
